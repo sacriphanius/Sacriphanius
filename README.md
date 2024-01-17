@@ -26,6 +26,6 @@ I'm RF Explorer And CyberSecurity Consultant
 ![](https://github-contributor-stats.vercel.app/api?username=sacriphanius&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sacriphanius&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=sacriphanius&style=for-the-badge)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
